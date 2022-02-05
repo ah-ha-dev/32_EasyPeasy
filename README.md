@@ -9,6 +9,10 @@
 
 저희 **AH-HA** 팀은 우리의 일상 속에서 다크 데이터를 줄여 환경을 보호하고 이를 생활습관화할 수 있는 서비스, **EasyPeasy**를 제안합나다.
 
+[발표자료](https://drive.google.com/file/d/1J5dAeoBShV6y9ZKg-3EXCA1X0vhzpYek/view?usp=sharing) / [apk파일 링크](https://drive.google.com/file/d/1dQX581ji11UXHtq2PR09-A8FCbG6Tn-0/view?usp=sharing)
+
+<br>
+
 ## 🔨 Tech Stack
 
 |         Frontend         |         Backend (API)         |         
@@ -20,34 +24,99 @@
 # 💚 Android
 
 ## 🔖 주요 기능
-- 회원 가입
-  - 구글 로그인
-  - 내 캐릭터 생성
-  - 캐릭터 이름 설정
-- 홈
-  - 메일함 관리
-  - 캐릭터 히스토리
-  - 내 캐릭터 변경
-- 설정
-  - 정보성 푸시 알림 설정
-  - 이메일 삭제 알림 설정
+
+<table>
+  <tr>
+    <td><img width="200" src="https://user-images.githubusercontent.com/63237214/152624995-5e51c5e8-332f-4bae-b1fa-e8b24b02caf9.png"></td>
+    <td><img width="200" src="https://user-images.githubusercontent.com/63237214/152625002-445ae748-6793-4daf-a152-27d00507c1a5.png"></td>
+    <td><img width="200" src="https://user-images.githubusercontent.com/63237214/152625004-eeb0cb25-bc39-4a21-8f71-bebbba40b0d6.png"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>구글 로그인</b></td>
+    <td align="center"><b>내 캐릭터 생성</b></td>
+    <td align="center"><b>캐릭터 이름 설정</b></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><img width="200" src="https://user-images.githubusercontent.com/63237214/152625008-33058807-8713-4a43-8fd9-7718c4a91439.png"></td>
+    <td><img width="200" src="https://user-images.githubusercontent.com/63237214/152625012-1de6c7bb-a331-4113-999c-c08b1d05a588.png"></td>
+    <td><img width="200" src="https://user-images.githubusercontent.com/63237214/152625011-3f7b8f39-5553-4eb5-ad90-0f954c72230e.png"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>메일함 관리</b></td>
+    <td align="center"><b>캐릭터 히스토리</b></td>
+    <td align="center"><b>내 캐릭터 변경</b></td>
+  </tr>
+</table>
+<table>
+  <tr>
+   <td><img width="200" src="https://user-images.githubusercontent.com/63237214/152625017-217e0f22-5df7-4aa0-b7e7-593c75b2270f.png"></td>
+   <td><img width="200" src="https://user-images.githubusercontent.com/63237214/152625018-3e802c16-b6dd-4973-a8c3-8aa2ce321582.png"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>정보성 푸시 알림 설정</b></td>
+    <td align="center"><b>이메일 삭제 알림 설정</b></td>
+  </tr>
+</table> 
+  
+  <br>
 
 ## 💻 Android Tech Stack
-- Kotlin
-  - Standard Library
-  - Coroutine
-- Material Design
-- Android Jetpack
-  - LifeCycle (ViewModel, LiveData, LifeCycleObserver)
-  - DataBinding
-  - Jetpack Navigation Component
-  - ViewPager2
-- Glide
-- Retrofit / OkHttp
+<table class="tg">
+<tbody>
+  <tr>
+    <td><b>Architecture</b></td>
+    <td>MVVM</td>
+  </tr>
+<tr>
+    <td><b>Jetpack Components</b></td>
+<td>LifeCycle (ViewModel, LiveData, LifeCycleObserver), DataBinding, Jetpack Navigation Component, viewPager2</td>
+</tr>
+ <tr>
+    <td><b>library</b></td>
+<td>Standard Library, Glide, Material Design</td>
+</tr>
+<tr>
+    <td><b>Network</b></td>
+<td>OkHttp, Retrofit2, coroutine</td>
+</tr>
+<tr>
+    <td><b>Strategy</b></td>
+<td>Git Flow</td>
+</tr>
+<tr>
+    <td><b>Other Tool</b></td>
+<td>Notion, Slack</td>
+</tr>
+</tbody>
+</table>
+<br>
 
 ## 🗂 Package
+```bash
+* 📦example
+      └─ahha_android
+          ├─📂data
+	  │  ├─📂api
+	  │  ├─📂model
+	  │  │  ├─📂request
+	  │  │  └─📂response
+          │  ├─📂response
+          │  ├─📂service
+          │  ├─📂type
+          │  └─📂vo
+          ├─📂ui
+          │  ├─📂main
+          │  │  └─📂adapter
+	  │  ├─📂setting
+          │  ├─📂sign
+          │  │  └─📂adapter
+          │  └─📂viewModel
+          └─📂util
+```
 
-<br>
+<br><br>
 
 # 💙 Backend
 
