@@ -17,7 +17,7 @@
 
 <br>
 
-# 💚 Frontend - Android
+# 💚 Android
 
 ## 🔖 주요 기능
 - 회원 가입
@@ -49,9 +49,9 @@
 
 <br>
 
-# 👻 Backend
+# 💙 Backend
 
-## ✨ The technology we used
+## ✨ The technology used
 - Google OAuth2.0  
   사용자 인증 정보를 얻기 위해 사용하였습니다.
 - Google Gmail API  
@@ -115,7 +115,7 @@ $ docker-compose -f "docker-compose.yml" up -d --build
 $ npm run start                         
 ```
 
-## 🌸 About Server
+## 🌸 Architecture
 ### Server Architecture
 ![image](https://user-images.githubusercontent.com/66551410/152565647-551079d2-7643-4ac0-ba6e-28f02c7d96b9.png)
 
