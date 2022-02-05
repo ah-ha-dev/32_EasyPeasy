@@ -1,4 +1,4 @@
-# 32_EasyPeasy (Team AH-HA)
+# 📌 32_EasyPeasy (Team AH-HA)
 
 ## 🖐 Introduction
 **다크 데이터**는 저장하고 있으나 내용 또는 가치가 확인되지 않는 데이터를 말합니다.
@@ -15,8 +15,41 @@
 | :----------------------: | :---------------------------: | 
 | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white) | ![Nestjs](https://img.shields.io/badge/nestjs-white?style=flat-square&logo=nestjs&color=E0234E) ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/AmazonDynamoDB-4053D6?style=flat-square&logo=AmazonDynamoDB&logoColor=white) ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=Sentry&logoColor=white)| 
 
+<br>
+
+# 💚 Frontend - Android
 
 ## 🔖 주요 기능
+- 회원 가입
+  - 구글 로그인
+  - 내 캐릭터 생성
+  - 캐릭터 이름 설정
+- 홈
+  - 메일함 관리
+  - 캐릭터 히스토리
+  - 내 캐릭터 변경
+- 설정
+  - 정보성 푸시 알림 설정
+  - 이메일 삭제 알림 설정
+
+## 💻 Android Tech Stack
+- Kotlin
+  - Standard Library
+  - Coroutine
+- Material Design
+- Android Jetpack
+  - LifeCycle (ViewModel, LiveData, LifeCycleObserver)
+  - DataBinding
+  - Jetpack Navigation Component
+  - ViewPager2
+- Glide
+- Retrofit / OkHttp
+
+## 🗂 Package
+
+<br>
+
+# 👻 Backend
 
 ## ✨ The technology we used
 - Google OAuth2.0  
