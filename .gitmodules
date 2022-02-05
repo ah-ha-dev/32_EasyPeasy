@@ -1,3 +1,6 @@
 [submodule "ah-ha-api-server"]
 	path = ah-ha-api-server
 	url = https://github.com/ah-ha-dev/ah-ha-api-server.git
+[submodule "ah-ha-android"]
+	path = ah-ha-android
+	url = https://github.com/ah-ha-dev/ah-ha-android.git
