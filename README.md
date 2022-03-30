@@ -140,17 +140,17 @@ The AH-HA team proposes `EasyPeasy`, a service that can protect the environment 
 
 ## ✨ The technology used
 - Google OAuth2.0  
-  사용자 인증 정보를 얻기 위해 사용하였습니다.
+  Used to obtain user authentication information.
 - Google Gmail API  
-  사용자의 실시간 메일 개수를 얻기 위해 사용하였습니다.
+  Used to get real-time mail count of users.
 - Google Cloud Platform PUB/SUB  
-  사용자의 메일함에 이벤트가 있을 때마다, 비동기적으로 통신하여, 데이터를 수집하기 위해 사용하였습니다.
+  Whenever there is an event in the user's mailbox, it is used to collect data by communicating asynchronously.
 - Firebase Cloud Messaging  
-  사용자에게 푸시 알람을 보내기 위해 사용하였습니다.
+  Used to send push notifications to users.
 - DynamoDB  
-  푸시 알람을 받는 사용자를 저장하기 위해 사용하였습니다. RDS만을 사용했을 때보다, 39%의 속도 향상을 얻었습니다. (더미 데이터 50000개 기준)
+  Used to store users who receive push notifications. Compared to using RDS alone, we got a speedup of 39%. (Based on 50000 dummy data)
 - Sentry / Slack  
-  실시간 버그 트래킹을 위해 사용하였습니다.
+  Used for real-time bug tracking.
 
 ## 🛠️ Dev Server
 http://3.35.131.195/api/v1
