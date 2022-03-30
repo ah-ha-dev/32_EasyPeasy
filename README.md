@@ -210,7 +210,7 @@ $ npm run start
 ![image](https://user-images.githubusercontent.com/66551410/152016992-cff6b052-35d7-416e-868c-b2702a3ef692.png)
 
 ### MySQL ERD
-![image](https://user-images.githubusercontent.com/66551410/152563288-231e1ff3-1394-424e-8fe9-0a387324d730.png)
+![image](https://user-images.githubusercontent.com/66551410/160916109-5de88ad1-5c43-4fab-b535-baafaaa84849.png)
 
 ## 🌈 Contributors
 
