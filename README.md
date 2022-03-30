@@ -1,15 +1,15 @@
 # 📌 32_EasyPeasy (Team AH-HA)
 
 ## 🖐 Introduction
-**다크 데이터**는 저장하고 있으나 내용 또는 가치가 확인되지 않는 데이터를 말합니다.
+`Dark data` is data that is stored but whose content or value is not verified.
 
-베리타스에 따르면 다크데이터때문에 2020년에 **약 580만톤**의 이산화탄소가 배출되었고, 이 배출량은 자동차로 지구를 무려 **575000바퀴** 돌았을 때와 동일하다고 합니다.  
+According to Veritas, dark data produced about `5.8 million tons` of carbon dioxide in 2020, the same amount as when cars traveled around the Earth `575,000 times`.
 
-손가락 하나만 까딱해서 다크데이터를 줄여 지구를 함께 지켜보시겠어요?
+Would you like to save the Earth by reducing dark data with just lifting a finger?
 
-저희 **AH-HA** 팀은 우리의 일상 속에서 다크 데이터를 줄여 환경을 보호하고 이를 생활습관화할 수 있는 서비스, **EasyPeasy**를 제안합나다.
+The AH-HA team proposes `EasyPeasy`, a service that can protect the environment by reducing dark data in our daily lives and make it a lifestyle.
 
-[발표자료](https://drive.google.com/file/d/1J5dAeoBShV6y9ZKg-3EXCA1X0vhzpYek/view?usp=sharing) / [apk파일 링크](https://drive.google.com/file/d/1dQX581ji11UXHtq2PR09-A8FCbG6Tn-0/view?usp=sharing)
+[Presentation Slides (Kor)](https://drive.google.com/file/d/1J5dAeoBShV6y9ZKg-3EXCA1X0vhzpYek/view?usp=sharing) / [apk file download](https://drive.google.com/file/d/1aD402lHWmFQ4FjWtcw5xd-_fmMR5L9K0/view?usp=sharing)
 
 <br>
 
@@ -23,42 +23,60 @@
 
 # 💚 Android
 
-## 🔖 주요 기능
+## 🔖Main Functions 
 
 <table>
   <tr>
-    <td><img width="200" src="https://user-images.githubusercontent.com/63237214/152624995-5e51c5e8-332f-4bae-b1fa-e8b24b02caf9.png"></td>
-    <td><img width="200" src="https://user-images.githubusercontent.com/63237214/152625002-445ae748-6793-4daf-a152-27d00507c1a5.png"></td>
-    <td><img width="200" src="https://user-images.githubusercontent.com/63237214/152625004-eeb0cb25-bc39-4a21-8f71-bebbba40b0d6.png"></td>
+    <td><img width="200" src="https://user-images.githubusercontent.com/63237214/160675409-532cbecb-9377-4f06-bb6b-5138161bac5f.png"></td>
+    <td><img width="200" src="https://user-images.githubusercontent.com/63237214/160675564-2217dc53-e604-495e-9b29-1a43b6de7daa.png"></td>
+    <td><img width="200" src="https://user-images.githubusercontent.com/63237214/160675605-57ddf6c7-17ea-4664-8f0a-aff24f155903.png"></td>
+    <td><img width="200" src="https://user-images.githubusercontent.com/63237214/160675681-f9e623f6-5459-4493-8144-0793c624dbad.png"></td>
   </tr>
   <tr>
-    <td align="center"><b>구글 로그인</b></td>
-    <td align="center"><b>내 캐릭터 생성</b></td>
-    <td align="center"><b>캐릭터 이름 설정</b></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td><img width="200" src="https://user-images.githubusercontent.com/63237214/152625008-33058807-8713-4a43-8fd9-7718c4a91439.png"></td>
-    <td><img width="200" src="https://user-images.githubusercontent.com/63237214/152625012-1de6c7bb-a331-4113-999c-c08b1d05a588.png"></td>
-    <td><img width="200" src="https://user-images.githubusercontent.com/63237214/152625011-3f7b8f39-5553-4eb5-ad90-0f954c72230e.png"></td>
-  </tr>
-  <tr>
-    <td align="center"><b>메일함 관리</b></td>
-    <td align="center"><b>캐릭터 히스토리</b></td>
-    <td align="center"><b>내 캐릭터 변경</b></td>
+    <td align="center"><b>Sign up with Google</b></td>
+    <td align="center"><b>Onboarding 1</b></td>
+    <td align="center"><b>Onboarding 2</b></td>
+    <td align="center"><b>Onboarding 3</b></td>
   </tr>
 </table>
 <table>
   <tr>
-   <td><img width="200" src="https://user-images.githubusercontent.com/63237214/152625017-217e0f22-5df7-4aa0-b7e7-593c75b2270f.png"></td>
-   <td><img width="200" src="https://user-images.githubusercontent.com/63237214/152625018-3e802c16-b6dd-4973-a8c3-8aa2ce321582.png"></td>
+    <td><img width="200" src="https://user-images.githubusercontent.com/63237214/160675721-cf6b34f4-f137-4c13-84ca-45661c06e730.png"></td>
+    <td><img width="200" src="https://user-images.githubusercontent.com/63237214/160679033-e34ba0ec-37d4-429e-a17f-5af8311538c0.png"></td>
+    <td><img width="200" src="https://user-images.githubusercontent.com/63237214/160676661-68f1a3e3-d6d5-4c93-9c8d-f0902818541d.png"></td>
+    <td><img width="200" src="https://user-images.githubusercontent.com/63237214/160676400-9bdd6827-b7e0-429d-a5ac-0eb885ec35dc.png"></td>
   </tr>
   <tr>
-    <td align="center"><b>정보성 푸시 알림 설정</b></td>
-    <td align="center"><b>이메일 삭제 알림 설정</b></td>
+    <td align="center"><b>Main</b></td>
+    <td align="center"><b>It's all grown up!</b></td>
+    <td align="center"><b>Character History</b></td>
+    <td align="center"><b>Exchange Plants</b></td>
+  </tr>
+</table>
+<table>
+  <tr>
+   <td><img width="200" src="https://user-images.githubusercontent.com/63237214/160679114-6afe2890-ac04-4a10-91b1-1b17868f7440.png"></td>
+   <td><img width="200" src="https://user-images.githubusercontent.com/63237214/160679166-4304b111-7ce3-470e-a2a2-805faa826d30.png"></td>
+   <td><img width="200" src="https://user-images.githubusercontent.com/63237214/160676605-748ebe97-17de-4fb7-a4c8-a72c1c5a28ab.png"></td>
+   
+  </tr>
+  <tr>
+    <td align="center"><b>Create my Character 1</b></td>
+    <td align="center"><b>Create my Character 2</b></td>
+    <td align="center"><b>Change my character</b></td>
+    
   </tr>
 </table> 
+<table>
+  <tr>
+   <td><img width="200" src="https://user-images.githubusercontent.com/63237214/160676501-505ff910-af25-4f02-8f60-430d2a58059e.png"></td>
+   <td><img width="200" src="https://user-images.githubusercontent.com/63237214/160676553-f2b06717-d414-4346-8f7b-26ef55c775d4.png"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Settings</b></td>
+    <td align="center"><b>Notification for deleting email</b></td>
+  </tr>
+</table>
   
   <br>
 
@@ -122,17 +140,17 @@
 
 ## ✨ The technology used
 - Google OAuth2.0  
-  사용자 인증 정보를 얻기 위해 사용하였습니다.
+  Used to obtain user authentication information.
 - Google Gmail API  
-  사용자의 실시간 메일 개수를 얻기 위해 사용하였습니다.
+  Used to get real-time mail count of users.
 - Google Cloud Platform PUB/SUB  
-  사용자의 메일함에 이벤트가 있을 때마다, 비동기적으로 통신하여, 데이터를 수집하기 위해 사용하였습니다.
+  Whenever there is an event in the user's mailbox, it is used to collect data by communicating asynchronously.
 - Firebase Cloud Messaging  
-  사용자에게 푸시 알람을 보내기 위해 사용하였습니다.
+  Used to send push notifications to users.
 - DynamoDB  
-  푸시 알람을 받는 사용자를 저장하기 위해 사용하였습니다. RDS만을 사용했을 때보다, 39%의 속도 향상을 얻었습니다. (더미 데이터 50000개 기준)
+  Used to store users who receive push notifications. Compared to using RDS alone, we got a speedup of 39%. (Based on 50000 dummy data)
 - Sentry / Slack  
-  실시간 버그 트래킹을 위해 사용하였습니다.
+  Used for real-time bug tracking.
 
 ## 🛠️ Dev Server
 http://3.35.131.195/api/v1
@@ -192,7 +210,7 @@ $ npm run start
 ![image](https://user-images.githubusercontent.com/66551410/152016992-cff6b052-35d7-416e-868c-b2702a3ef692.png)
 
 ### MySQL ERD
-![image](https://user-images.githubusercontent.com/66551410/152563288-231e1ff3-1394-424e-8fe9-0a387324d730.png)
+![image](https://user-images.githubusercontent.com/66551410/160916109-5de88ad1-5c43-4fab-b535-baafaaa84849.png)
 
 ## 🌈 Contributors
 
